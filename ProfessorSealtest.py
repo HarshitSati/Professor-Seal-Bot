@@ -7,7 +7,7 @@ dotenv.load_dotenv()
 @client.event #Text events
 async def on_ready():
   print('Logged in as {0.user} using Pycord!'.format(client))
-
+  await client.change_presence(activity=discord.Streaming(platform = "YoutTube",name="Study With Tina", url="https://www.youtube.com/watch?v=RLez2bI9Hb8"))
 
 # @client.event #count the number users messaging and VC joins per day
 # async def on_message(message):
