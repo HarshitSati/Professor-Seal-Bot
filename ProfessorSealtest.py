@@ -39,8 +39,10 @@ async def on_voice_state_update(member, before, after):
     await member.add_roles(role)
   elif before.channel is not None and after.channel is None: # leaving vc 
     await member.remove_roles(role)
-  elif before.channel is not None and after.channel.id ==workspace: # switching vc channels
+  elif before.channel is not None and after.channel.id ==workspace: # hopping to workspacce
     await member.add_roles(role)
+  elif before.channel is not None and after.channel.id !=workspace: # hopping from workspace
+    await member.remove_roles(role)
   
 #have to implement the joining various VCs feature
 #TBD - Engagement metrics
