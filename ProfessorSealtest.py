@@ -1,3 +1,4 @@
+#this is not the profuction code
 from platform import platform
 import discord
 import os
