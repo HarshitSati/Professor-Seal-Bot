@@ -39,6 +39,19 @@ import random
 ### Feature 4
 #### Webhook embeds by discord
 ![Webhook embeds by discord](https://github.com/HarshitSati/Professor-Seal-Bot/blob/master/assets/img/webhook.png)
+
+## Setup of Virtual Environment on Linux
+The virtual environment should have the libraries mentioned at the start installed.
+```bash
+source venv/bin/activate
+
+nohup python3 -u [ProfessorSeal.py](http://professorseal.py/) &>> activity.log &
+```
+To kill the process you need to use htop to get the PID of he ProfessorSealBot process and then kill it with the `kill -9 PID` command.
+```bash
+htop 
+kill -9 PID
+```
  
 ## WIP
 * Moderation and Moderation logs
