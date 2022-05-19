@@ -27,13 +27,17 @@ import random
 ```
 ## Features
 ### Feature 1
+#### Focus mode is applied to the person who joins the voice channel and is removed when the person leaves the voice channel.
 ![Focus mode is applied to the person who joins the voice channel and is removed when the person leaves the voice channel.](https://github.com/HarshitSati/Professor-Seal-Bot/blob/master/assets/img/focusmode_img.png)
 ![Focus mode is hoisted](https://github.com/HarshitSati/Professor-Seal-Bot/blob/master/assets/img/focusmode_display.png)
 ### Feature 2
+#### A set of random Reactions to messages in particular channels
 ![A set of random Reactions to messages in particular channels](https://github.com/HarshitSati/Professor-Seal-Bot/blob/master/assets/img/reaction_improve_everyday.png)
 ### Feature 3
+#### Supports Streaming activity status for youtube and twitch
 ![Supports Streaming activity status for youtube and twitch](https://github.com/HarshitSati/Professor-Seal-Bot/blob/master/assets/img/status.png)
 ### Feature 4
+#### Webhook embeds by discord
 ![Webhook embeds by discord](https://github.com/HarshitSati/Professor-Seal-Bot/blob/master/assets/img/webhook.png)
  
 ## WIP
