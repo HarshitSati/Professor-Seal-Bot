@@ -1,6 +1,6 @@
 # Professor Seal Bot
 
-A multipurpose Discord bot made with pycord for a famous Data Science Youtuber's Productivity Community server.
+A multipurpose Discord bot made with pycord for a famous Data Science Youtuber's Productivity Community server hosted on Google Cloud (GCP).
 Check out Tina Huang's channel [here](https://www.youtube.com/c/TinaHuang1)
 
 
