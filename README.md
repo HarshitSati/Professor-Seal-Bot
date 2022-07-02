@@ -40,6 +40,10 @@ import random
 #### Webhook embeds by discord
 ![Webhook embeds by discord](https://github.com/HarshitSati/Professor-Seal-Bot/blob/master/assets/img/webhook.png)
 
+### Feature 5 
+#### roberta based NLP context aware QUAM with `ps!context` and `ps!question`
+![](https://github.com/HarshitSati/Professor-Seal-Bot/blob/master/assets/img/feature5.png)
+
 ## Setup of Virtual Environment on Linux
 The virtual environment should have the libraries mentioned at the start installed.
 ```bash
