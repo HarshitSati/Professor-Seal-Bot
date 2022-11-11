@@ -1,4 +1,4 @@
-#this is not the profuction code
+#this is not the production code
 from platform import platform
 import discord
 import os
